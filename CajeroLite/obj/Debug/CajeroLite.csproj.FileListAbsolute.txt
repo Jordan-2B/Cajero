@@ -1,8 +1,0 @@
-C:\Users\NierA\source\repos\CajeroLite\bin\Debug\CajeroLite.exe.config
-C:\Users\NierA\source\repos\CajeroLite\bin\Debug\CajeroLite.exe
-C:\Users\NierA\source\repos\CajeroLite\bin\Debug\CajeroLite.pdb
-C:\Users\NierA\source\repos\CajeroLite\obj\Debug\CajeroLite.csproj.AssemblyReference.cache
-C:\Users\NierA\source\repos\CajeroLite\obj\Debug\CajeroLite.csproj.CoreCompileInputs.cache
-C:\Users\NierA\source\repos\CajeroLite\obj\Debug\CajeroLite.exe
-C:\Users\NierA\source\repos\CajeroLite\obj\Debug\CajeroLite.pdb
-C:\Users\NierA\source\repos\CajeroLite\obj\Debug\CajeroLite.exe.config
